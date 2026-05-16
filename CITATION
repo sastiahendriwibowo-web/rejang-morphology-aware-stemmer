@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Rejang Morphology-Aware Stemmer Dataset
+message: "If you use this dataset, please cite the repository."
+type: dataset
+authors:
+  - family-names: YourLastname
+    given-names: YourFirstname
+version: 1.0
+date-released: 2026-05-17
+license: MIT
